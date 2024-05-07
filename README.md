@@ -1,6 +1,8 @@
 # Supervised_ML_Regression
 The primary objective of this project is to develop a robust Machine Learning Regression model that can accurately forecast YES Bank's monthly closing Stock prices using past data . We have used "Python" libraries like "Pandas", "NumPy" for EDA, libraries like "Matplotlib", "Seaborn" for visualization and "Sci-kit learn" library for model building.
 
+![stocks](https://github.com/AbhayAviSharma/Supervised_ML_Regression/assets/131509148/152e1674-408d-42b4-ae45-27f3b825e204)
+
 # Summary :
 Yes Bank, a prominent institution in the Indian financial sector, has been in the spotlight since 2018 due to a high-profile fraud case involving its former CEO, Rana Kapoor. This project aims to explore the relationship between various financial indicators and Yes Bank's monthly closing stock prices. By employing regression analysis, we seek to develop a predictive model that can accurately forecast the bank's closing stock prices. The dataset used in this project includes historical monthly stock prices and a set of financial indicators.
 
